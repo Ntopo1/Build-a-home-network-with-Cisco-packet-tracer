@@ -26,7 +26,7 @@ Step 3: Add the physical cabling between devices<br/>
 <br />
 <br /> 
 <h3>Part 2: Configure the End Devices and Verify Connectivity </h3><br/>
-<p align="center">Step 1:I configure the PC for the wired network in this step. <br/>
+<p align="center">Step 1: Configure the PC for the wired network in this step. <br/>
 <img src="https://i.imgur.com/1VmYFGG.png" height="80%" width="80%" alt="enable DHCP"/>
 <br />
   <br />
