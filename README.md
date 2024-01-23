@@ -1,6 +1,6 @@
 
 <h1>Description </h1>
-  Build a virtual home netwrok with Cisco packet tracer</h1>
+  Build a virtual home network with Cisco packet tracer</h1>
 
 <br />
 
@@ -17,7 +17,7 @@ Step 1: Add network devices to the workspace. <br/>
 <img src="https://i.imgur.com/xIonpa1.png" height="80%" width="80%" alt="Add Devices"/>
 <br />
 <br />
-Step 2: Change display names of the nework devices. <br/>
+Step 2: Change the display names of the network devices. <br/>
 <img src="https://imgur.com/Zjlyz05.png" height="80%" width="80%" alt="Change device names"/>
 <br />
 <br />
