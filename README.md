@@ -1,6 +1,6 @@
 
 <h1>Description </h1>
-  Build a virtual home network with Cisco packet tracer</h1>
+  Build a virtual home network with Cisco packet tracer. Packet Tracer is visual simulation tool designed by Cisco Systems that allows users to create network topologies and imitate modern computer networks.  In this lab I am going to make a simple home network, consisting of 2 hosts</h1>
 
 <br />
 
