@@ -1,6 +1,6 @@
 
 <h1>Description </h1>
-  Build a virtual home network with Cisco packet tracer. Packet Tracer is visual simulation tool designed by Cisco Systems that allows users to create network topologies and imitate modern computer networks.  In this lab I am going to make a simple home network, consisting of 2 hosts. The PC is going to be hard wired to the router via a Fast Ethernet(100MPS) copper straight through cable. Auto MDI-X is enabled on all devices. The Laptop is going to connect to router via a wireless connection. The router will then be connected to a modem via a copper thriaght through cable. Lastly the modem will connect to the internet via a coaxial cable.</h1>
+  Build a virtual home network with Cisco Packet Tracer. Packet Tracer is visual simulation tool designed by Cisco Systems that allows users to create network topologies and imitate modern computer networks.  In this lab I am going to make a simple home network, consisting of 2 hosts. The PC is going to be hard wired to the router via a Fast Ethernet(100MPS) copper straight through cable. Auto MDI-X is enabled on all devices. The Laptop is going to connect to router via a wireless connection. The router will then be connected to a modem via a copper thriaght through cable. Lastly the modem will connect to the internet via a coaxial cable.</h1>
 
 <br />
 
